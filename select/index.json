@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "感情のピクセル",
+  "base_artist": "okazakitaiiku",
+  "createdAt": "2025-12-28T13:32:42.664379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "感情のピクセル",
+      "artist": "岡崎体育",
+      "has_synced": true,
+      "path": "select/01_感情のピクセル_岡崎体育.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "感情のピクセル",
+      "artist": "Okazaki Taiiku",
+      "has_synced": true,
+      "path": "select/02_感情のピクセル_Okazaki_Taiiku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "感情のピクセル  (岡崎体育ワンマンコンサート「BASIN TECHNO」＠さいたまスーパーアリーナ)",
+      "artist": "okazakitaiiku",
+      "has_synced": false,
+      "path": "select/03_感情のピクセル_(岡崎体育ワンマンコンサート「BASIN_TECHNO」@さいたまスーパーアリーナ)_okazakitaiiku.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感情のピクセル",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/pl_01_感情のピクセル_岡崎体育.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "感情のピクセル",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/pl_02_感情のピクセル_岡崎体育.txt"
+    }
+  ]
+}
